@@ -51,7 +51,7 @@
                             <ul class="nav navbar-nav">
                                 <li><a href="#">TECHNOLOGIES</a></li>
                                 <li><a href="#">ABOUT</a></li>
-                                <li><a href="#">BLOG</a></li>
+                                <li><a href="#">BLOG2</a></li>
                             </ul>
                             <div class="navbar-collapse navbar-right collapse">
 	                            <ul class="nav navbar-nav">
